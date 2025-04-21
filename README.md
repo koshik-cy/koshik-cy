@@ -27,7 +27,7 @@
 
 ### 📫 How to reach me:
 - ✉️ Email: koshikp2002@gmail.com
-- 🌐 Portfolio: 
+- 🌐 Portfolio: https://my-portfolio-v5aj.onrender.com/
 - 📄 Resume: https://drive.google.com/file/d/1Z8_nshEi0NAtEaWQCRn7BOxUhPFJsb09/view?usp=drivesdk
 - 🔗 LinkedIn: https://www.linkedin.com/in/koshik-patnam-61561a28b
 
